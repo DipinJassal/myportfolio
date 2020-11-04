@@ -121,7 +121,7 @@
     color: dodgerblue;
 }
 
-.home .home-content .btn{
+/*.home .home-content .btn{
     font-size: 25px;
     position: relative;
     top: 15px;
@@ -134,7 +134,7 @@
 .home .home-content .btn:hover{
     background-color: crimson;
     color: #ffffff;
-}
+}*/
 section{
     padding: 50px 0;
 }
